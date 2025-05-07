@@ -4,7 +4,6 @@ import pandas as pd
 import joblib
 import shap
 import matplotlib.pyplot as plt
-import streamlit_authenticator as stauth
 
 # === Load model và thông tin ===
 model = joblib.load('lightgbm_churn_model.pkl')
