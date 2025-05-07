@@ -5,6 +5,4 @@ pandas
 numpy
 matplotlib
 shap
-mysqlclient
 pymysql
-SQLAlchemy
